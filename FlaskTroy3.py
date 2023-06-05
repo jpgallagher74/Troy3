@@ -104,6 +104,6 @@ def perform_sentiment_analysis(company_name):
 
     return sentiment_df, sentiment_summary
 
-if __name__ == '__main__':
-    app.run(port=8000)
+#if __name__ == '__main__':
+#    app.run(port=8000)
 
